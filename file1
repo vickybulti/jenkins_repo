@@ -1,0 +1,3 @@
+echo "welcome to git code"
+whoami
+hostname
