@@ -1,4 +1,1 @@
-echo "welcome to git code"
-whoami
-hostname
-echo "changing the code on 26aug"
+echo "my first CI commit"
